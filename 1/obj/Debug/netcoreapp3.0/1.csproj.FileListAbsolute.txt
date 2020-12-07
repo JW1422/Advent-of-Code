@@ -1,0 +1,10 @@
+/Users/josh/Documents/GitHub/Advent-of-Code/1/bin/Debug/netcoreapp3.0/1.deps.json
+/Users/josh/Documents/GitHub/Advent-of-Code/1/bin/Debug/netcoreapp3.0/1.runtimeconfig.json
+/Users/josh/Documents/GitHub/Advent-of-Code/1/bin/Debug/netcoreapp3.0/1.runtimeconfig.dev.json
+/Users/josh/Documents/GitHub/Advent-of-Code/1/bin/Debug/netcoreapp3.0/1.dll
+/Users/josh/Documents/GitHub/Advent-of-Code/1/bin/Debug/netcoreapp3.0/1.pdb
+/Users/josh/Documents/GitHub/Advent-of-Code/1/obj/Debug/netcoreapp3.0/1.csprojAssemblyReference.cache
+/Users/josh/Documents/GitHub/Advent-of-Code/1/obj/Debug/netcoreapp3.0/1.AssemblyInfoInputs.cache
+/Users/josh/Documents/GitHub/Advent-of-Code/1/obj/Debug/netcoreapp3.0/1.AssemblyInfo.cs
+/Users/josh/Documents/GitHub/Advent-of-Code/1/obj/Debug/netcoreapp3.0/1.dll
+/Users/josh/Documents/GitHub/Advent-of-Code/1/obj/Debug/netcoreapp3.0/1.pdb
